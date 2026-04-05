@@ -51,33 +51,37 @@ KPIs: Inventory levels, lead times, vendor performance, stock-outs.
 One-page summary of all critical KPIs for top management.
 <img width="1382" height="744" alt="image" src="https://github.com/user-attachments/assets/1c6a64f8-8d67-4981-ac9f-b8be56face20" />
 
+7. Data Model
+Comprehensive star & snowflake schema integrating fact and dimension tables from MySQL, Excel, and CSV sources.
+<img width="1216" height="762" alt="image" src="https://github.com/user-attachments/assets/00026743-2165-4781-8983-8648b0f465e7" />
+
 ## Business Term Used:
-🔹Gross Price: The total price before any discounts or deductions.
-🔹Net Sales: Revenue after deductions like discounts and returns.
-🔹Net Invoice Sales: Sales value after deductions applied to the invoice.
-🔹Pre-Invoice Deductions: Reductions applied before invoicing, like discounts or rebates.
-🔹Post-Invoice Deductions: Reductions applied after invoicing, like returns or allowances.
-🔹Manufacturing Cost: Total cost to produce goods.
-🔹Freight Cost: Shipping expenses to deliver goods.
-🔹Cost of Goods Sold (COGS): Direct costs tied to the production of goods.
-🔹Gross Margin: The difference between revenue and COGS.
-🔹Operational Expenses: Day-to-day expenses to run the business.
-🔹Net Profit: Total profit after all expenses.
-🔹FY (Financial Year): A 12-month period used for accounting purposes.
-🔹YTD (Year to Date): Performance from the start of the year until the current date.
-🔹YTG (Year to Go): The remaining time in the financial year. 
+ 1. Gross Price: The total price before any discounts or deductions.
+ 2. Net Sales: Revenue after deductions like discounts and returns.
+ 3. Net Invoice Sales: Sales value after deductions applied to the invoice.
+ 4. Pre-Invoice Deductions: Reductions applied before invoicing, like discounts or rebates.
+ 5. Post-Invoice Deductions: Reductions applied after invoicing, like returns or allowances.
+ 6. Manufacturing Cost: Total cost to produce goods.
+ 7. Freight Cost: Shipping expenses to deliver goods.
+ 8. Cost of Goods Sold (COGS): Direct costs tied to the production of goods.
+ 9. Gross Margin: The difference between revenue and COGS.
+10. Operational Expenses: Day-to-day expenses to run the business.
+11. Net Profit: Total profit after all expenses.
+12. FY (Financial Year): A 12-month period used for accounting purposes.
+13. YTD (Year to Date): Performance from the start of the year until the current date.
+14. YTG (Year to Go): The remaining time in the financial year. 
 
 ## Learnings
-🔹Building a comprehensive data model integrating multiple sources
-🔹Designing executive-friendly dashboards with clear KPIs
-🔹Applying DAX measures for advanced calculations
-🔹Creating homepage navigation for user-friendly experience
-🔹Understanding cross-functional analytics (Sales, Finance, Marketing, Supply Chain)
-🔹Managing large files (Power BI .pbix, datasets) using Git LFS for efficient version control
+ 1. Building a comprehensive data model integrating multiple sources
+ 2. Designing executive-friendly dashboards with clear KPIs
+ 3. Applying DAX measures for advanced calculations
+ 4. Creating homepage navigation for user-friendly experience
+ 5. Understanding cross-functional analytics (Sales, Finance, Marketing, Supply Chain)
+ 6. Managing large files (Power BI .pbix, datasets) using Git LFS for efficient version control
 
 ## Project Outcome
-🔹Delivered a Business Insights 360 solution for AtliQ Hardwares
-🔹Empowered stakeholders with data-driven decision-making
-🔹Improved visibility across sales, finance, marketing, and supply chain
-🔹Provided executive-level reporting for top management
-🔹Established a scalable framework for future BI projects
+ 1. Delivered a Business Insights 360 solution for AtliQ Hardwares
+ 2. Empowered stakeholders with data-driven decision-making
+ 3. Improved visibility across sales, finance, marketing, and supply chain
+ 4. Provided executive-level reporting for top management
+ 5. Established a scalable framework for future BI projects
