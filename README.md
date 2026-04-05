@@ -2,8 +2,7 @@
 This repository showcases a 360° business analytics solution for AtliQ Hardwares, built using Power BI.
 The project integrates data from multiple domains—Sales, Finance, Marketing, and Supply Chain—to deliver actionable insights through interactive dashboards and executive-level reporting.
 
-## Live Dashboard:
-https://app.powerbi.com/view?r=eyJrIjoiZDZjNTRkMDktM2YyNy00ZTBmLWJmOGQtMTQ2NjBkNTEyOWM3IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
+## Live Dashboard: [View Here](https://app.powerbi.com/view?r=eyJrIjoiZDZjNTRkMDktM2YyNy00ZTBmLWJmOGQtMTQ2NjBkNTEyOWM3IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
 ## Project Overview:
 AtliQ Hardware is a consumer goods electronics company having operations in various countries. Their business is growing rapidly, and they still rely on excel files for data analytics. Excel files are hard to consume and not effective in generating insights. Also due to the lack of effective analytics the company faced a major loss in Latin America. Senior executives of this company have decided to invest in a data analytics project and have assigned a team for this work.
