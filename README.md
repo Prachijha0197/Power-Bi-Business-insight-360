@@ -27,31 +27,31 @@ ETL – Data cleaning, transformation, and integration
 
 ## Dasboard screenshots: 
 
-1. Homepage
+### 1. Homepage.
 Centralized navigation to all dashboards and executive view.
 <img width="1364" height="760" alt="image" src="https://github.com/user-attachments/assets/794c3078-3723-4916-91e2-bf07c9a67312" />
 
-2. Finance View
+### 2. Finance View.
 KPIs: Net Sales, Gross Margin %, Profit & Loss, COGS trends.
 <img width="1366" height="773" alt="image" src="https://github.com/user-attachments/assets/b79e1228-dd27-43d1-990c-fd27b6a57041" />
 
-3. Sales View
+### 3. Sales View.
 KPIs: Revenue trends, top products, top customers, regional performance.
 <img width="1357" height="753" alt="image" src="https://github.com/user-attachments/assets/3203b49a-9066-4894-a9ae-c74fe8e0aa59" />
 
-4. Marketing View
+### 4. Marketing View:
 KPIs: Campaign ROI, customer acquisition, retention metrics.
 <img width="1366" height="744" alt="image" src="https://github.com/user-attachments/assets/cdbc0896-5fd7-4117-88f9-855c4c015b49" />
 
-5. Supply Chain View
+### 5. Supply Chain View:
 KPIs: Inventory levels, lead times, vendor performance, stock-outs.
 <img width="1362" height="746" alt="image" src="https://github.com/user-attachments/assets/ce2ffd46-1790-4fc2-907c-7c1531cdd4c6" />
 
-6. Executive View
+### 6. Executive View:
 One-page summary of all critical KPIs for top management.
 <img width="1382" height="744" alt="image" src="https://github.com/user-attachments/assets/1c6a64f8-8d67-4981-ac9f-b8be56face20" />
 
-7. Data Model
+### 7. Data Model:
 Comprehensive star & snowflake schema integrating fact and dimension tables from MySQL, Excel, and CSV sources.
 <img width="1216" height="762" alt="image" src="https://github.com/user-attachments/assets/00026743-2165-4781-8983-8648b0f465e7" />
 
